@@ -1,0 +1,24 @@
+
+/* .signin{
+    background-image: url('../Assets/bg_signup.jpg') ;
+} */
+
+.signin{
+  background:#F4F7FA ;
+}
+.signin1{
+  /* background:rgb(21, 55, 119,0.65); */
+  background: #fff;
+  color: black;
+  padding: 40px;
+  /* padding-bottom: 30px; */
+  margin: 120px 0;
+  height: auto;  
+  border: 1px solid #E9EEF4;
+  border-radius: 12px;
+}
+.signin1 h2{
+  text-align: center;
+  color:black;
+  padding-bottom: 20px;
+}
